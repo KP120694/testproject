@@ -1,0 +1,15 @@
+builders/Fixtures.class
+builders/FixtureStatus.class
+Helper.class
+tasks/TaskThreeTestCase.class
+builders/FootballFullState.class
+tasks/TaskOneTestCase.class
+builders/Teams$TeamsBuilder.class
+builders/Goals.class
+builders/FixtureStatus$FixtureStatusBuilder.class
+tasks/TaskTwoTestCase.class
+builders/Teams.class
+builders/Fixtures$FixturesBuilder.class
+builders/Goals$GoalsBuilder.class
+builders/FootballFullState$FootballFullStateBuilder.class
+tasks/TaskFourTestCase.class

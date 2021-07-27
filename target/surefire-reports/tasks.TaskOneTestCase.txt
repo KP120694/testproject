@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: tasks.TaskOneTestCase
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.046 s <<< FAILURE! - in tasks.TaskOneTestCase
+testAll3FixturesReturnedTestCase  Time elapsed: 0.022 s  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<4>
+	at tasks.TaskOneTestCase.testAll3FixturesReturnedTestCase(TaskOneTestCase.java:24)
+
+testAllFixturesHaveAValueTestCase  Time elapsed: 0.022 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[1, 2, 3[]]> but was:<[1, 2, 3[, 4]]>
+	at tasks.TaskOneTestCase.testAllFixturesHaveAValueTestCase(TaskOneTestCase.java:33)
+

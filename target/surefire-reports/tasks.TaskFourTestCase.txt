@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tasks.TaskFourTestCase
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.028 s <<< FAILURE! - in tasks.TaskFourTestCase
+deleteAFixtureTestCase  Time elapsed: 0.028 s  <<< FAILURE!
+java.lang.AssertionError: expected:<404> but was:<204>
+	at tasks.TaskFourTestCase.deleteAFixtureTestCase(TaskFourTestCase.java:54)
+
